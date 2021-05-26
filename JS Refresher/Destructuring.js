@@ -1,4 +1,4 @@
-const numbers = [1, 2, 3]
+const numbers = [1, 2, 3];
 
 // Array Destructuring
 [num1, num2] = numbers;
